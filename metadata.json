@@ -1,0 +1,20 @@
+{
+  "name": "GBTNetwork",
+  "shortName": "GBT",
+  "chainId": 999,
+  "networkId": 999,
+  "nativeCurrency": {
+    "name": "GoldBarTether",
+    "symbol": "GBT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://GBTNetwork",
+    "https://localhost:8545",
+    "https://GBTNetwork:8545"
+  ],
+  "blockExplorerUrls": ["https://explorer.gbt.ml"],
+  "iconUrls": [
+    "https://raw.githubusercontent.com/openai-user-assist/GBTNetworkAssets/main/logo.png"
+  ]
+}
